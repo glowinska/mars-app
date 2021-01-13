@@ -54,6 +54,7 @@ class PhotoGridAdapter : ListAdapter<MarsProperty,
             binding.property = marsProperty
             binding.executePendingBindings()
         }
+
     }
 
 }
